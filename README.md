@@ -138,7 +138,7 @@ Focuses on:
 
 ### Profit Dashboard
 
-![Profit Dashboard](Dashboard/profit_dashboard.png)
+![Profit Dashboard](Dashboard/Profit_dashboard.png)
 
 ---
 
