@@ -134,11 +134,11 @@ Focuses on:
 
 ### Sales Dashboard
 
-![Sales Dashboard](dashboard/sales_dashboard.png)
+![Sales Dashboard](Dashboard/sales_dashboard.png)
 
 ### Profit Dashboard
 
-![Profit Dashboard](dashboard/profit_dashboard.png)
+![Profit Dashboard](Dashboard/profit_dashboard.png)
 
 ---
 
